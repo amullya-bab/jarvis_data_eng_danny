@@ -34,7 +34,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_danny](htt
 
 **University of Ontario Institute of Technology (2015-2019)**, Bachelor of Science (Honours), Computer Science  
 
-- **FlipFlop:** Reddit-like app developed on Android studio. Users can post, comment on posts, and vote. All post and user data was sent to a realtime database running on Google Firebase. Data relevant to the current user was stored locally using SQLite.
+- **FlipFlop:** Reddit-like app developed on Android studio. Users can post, comment on posts, and vote. Every post and user data was sent to a realtime database running on Google Firebase. Data relevant to the current user was stored locally using SQLite.
 
 - **Wildfire Simulation:** A naive, 2D simulation of wildfire spread programmed in Python and realized using cellular automata. Also implements a 2D cave-generation algorithm to generate a mock forest for testing.  
 
